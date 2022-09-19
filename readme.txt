@@ -1,0 +1,2 @@
+Este projeto é focado em cadastro e consulta de produtos. Totalmente desenvolvido em Linguagem de programação C.
+Podemos cadastrar produtos informando o nome, quantidade e preço. Este dados podem ser consultados atráves de um consulta simples ou avançada.
